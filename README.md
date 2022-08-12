@@ -1,8 +1,13 @@
-<p align="center"> 
- 
+
+ <p align="center"> 
+ <img src="Image/car-motorcycle-harley-davidson-vector-graphics-logo-png-favpng-JkKriDeCd53edrd7iVqmf5TNg.jpg" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
 <h1 align="center"> Bike Sharing Demand Prediction  </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
+<p align="center"> 
+  <img src="Images/05cItXL96l4LE9n02WfDR0h-6.png" alt="netflix-logo-png-2574.png" width="700px" height="500px">
+</p>
 
 <p align="center"> 
   
